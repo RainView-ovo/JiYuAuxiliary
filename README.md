@@ -30,4 +30,5 @@
 
 由于本人实力问题，暂时不能修复在Win7等系统下的DPI缩放问题，如果遇到DPI问题，可以下载后缀为Non-Scaling的版本
 
+本程序取消屏幕广播/黑屏窗口置顶的功能参考了项目[https://github.com/yszyszysz233/MythwareCage](https://github.com/yszyszysz233/MythwareCage)
 本程序部分代码使用精易模块11.1.5编写，精易模块下载地址：[https://ec.125.la/](https://ec.125.la/)
